@@ -5,3 +5,6 @@ def reverse_string():
     
     return reversed_string
 
+result = reverse_string()
+print("Reversed string:", result)
+
